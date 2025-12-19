@@ -13,7 +13,11 @@ Flexbox – For column layout and responsive content
 # Features
 
 .Responsive header with full-screen beach image
+
 .Three content sections describing beach experiences: sunrise, afternoon, evening
+
 .Elegant typography and calming color palette
+
 .Button for potential call-to-action
+
 .Fully responsive design for mobile and desktop
