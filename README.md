@@ -21,3 +21,11 @@ Flexbox – For column layout and responsive content
 .Button for potential call-to-action
 
 .Fully responsive design for mobile and desktop
+
+
+## How to Use
+1. Clone or download the repository
+2. Open `beach.html` in a browser
+3. Enjoy exploring the website
+
+
