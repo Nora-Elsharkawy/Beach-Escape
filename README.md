@@ -8,9 +8,9 @@ HTML5 – Structure and semantic elements
 
 CSS3 – Styling, layout, and responsive design
 
-#Flexbox – For column layout and responsive content
+Flexbox – For column layout and responsive content
 
- Features
+# Features
 
 .Responsive header with full-screen beach image
 .Three content sections describing beach experiences: sunrise, afternoon, evening
